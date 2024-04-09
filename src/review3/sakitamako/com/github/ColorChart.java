@@ -1,6 +1,7 @@
 package review3.sakitamako.com.github;
 
 public class ColorChart {
+	
 	public String color = null;
 	public int level = 0;
 	
@@ -10,4 +11,5 @@ public class ColorChart {
 		this.color = color;
 		this.level = level;
 	}
+	
 }

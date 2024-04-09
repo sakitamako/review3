@@ -12,7 +12,6 @@ public class ColorTest {
 		ColorChart blue = new ColorChart("青", 9);
 		System.out.println(blue.color + "ベースの");
 		System.out.println(blue.level + "トーンカラー");
-		
 	}
 
 }
